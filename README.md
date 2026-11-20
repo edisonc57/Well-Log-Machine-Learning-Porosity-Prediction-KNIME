@@ -16,7 +16,7 @@ Machine learning exercise on well **A-18-00** logs, built in **Python (Jupyter)*
 
 ```
 ├── data/     well_18_ml_v1.csv
-├── python/   ML_Session.ipynb, ML_Session_corregido.py
+├── python/   ML_Session.ipynb
 ├── knime/    ML_Pozo18_KNIME.knwf
 └── README.md
 ```
