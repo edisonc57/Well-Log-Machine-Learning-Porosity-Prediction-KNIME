@@ -59,6 +59,6 @@ Python and KNIME figures are not directly comparable (different splits).
 - `PHIE` is derived from `RHOB` and `NPHI`, so predicting it from them is partly circular.
 - KNIME has no native SVR node; Gradient Boosted Trees replaces XGBoost.
 
-## License
+## Autor
 
-_TBD. Confirm the CSV can be published._
+Edison Contreras P.
